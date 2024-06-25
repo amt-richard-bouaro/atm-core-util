@@ -6,3 +6,7 @@ e
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+V
+&src/main/java/com/amalitech/enums.java,6\1\61a48b9ebbc8b7762e2012cae6b0e81094a3abcd
+U
+%src/main/java/com/amalitech/Main.java,3\b\3b198cbe66fb7f29e8d8384e47dfc9a19f65571f
