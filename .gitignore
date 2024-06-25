@@ -1,5 +1,5 @@
-src/main/resources/application.yml
-src/test/resources/test.properties
+/src/main/resources/application.yml
+/src/test/resources/test.properties
 
 target/
 !.mvn/wrapper/maven-wrapper.jar
